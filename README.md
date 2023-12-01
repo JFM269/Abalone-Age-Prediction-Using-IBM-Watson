@@ -1,14 +1,5 @@
 # SmartInternz_AbloneAgePrediction
 
-## Contributors
-1. Athish M
-2. Ishaan Pare
-3. Jason Misquitta
-4. Saaketha Krishna
-
-## Demonstration video
-
-https://youtu.be/Z4MB84OILKg
 
 
 ## Starting the application
